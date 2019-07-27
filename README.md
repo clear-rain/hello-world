@@ -1,2 +1,2 @@
 # hello-world
-staplatinum the-world!
+starplatinum the-world!
